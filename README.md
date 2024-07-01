@@ -44,7 +44,9 @@ To use Book Price Tracker, execute the main script `price_tracker.py`:
 ```bash
 python price_tracker.py
 ```
-
+Before this execute the 'GoodReads_scraper.ipynb' file to get the data of favourite books in a csv file 
+Next Execute the 'amazon_scrape_price.ipynb' to get all the metaData of the list of books extracted from GoodReads. You will get the prices.
+Lastly execute the 'price_tracker.py' to get the price drop data.
 Follow the prompts and instructions provided in the terminal.
 
 ## File Descriptions
